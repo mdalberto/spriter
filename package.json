@@ -1,0 +1,15 @@
+{
+  "name": "spriter",
+  "version": "1.0.0",
+  "description": "Sprite things with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Dalberto",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svg2png": "^2.0.0"
+  }
+}
