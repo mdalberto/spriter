@@ -14,8 +14,4 @@ gulp.task('spritesymbol', function () {
         .pipe(gulp.dest("assets"));
 });
 
-gulp.task('hello', function() {
-  console.log('Hello Zell');
-});
-
 
