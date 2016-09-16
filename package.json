@@ -1,15 +1,25 @@
 {
   "name": "spriter",
   "version": "1.0.0",
+  "author": "Matt Dalberto",
   "description": "Sprite things with gulp",
   "main": "index.js",
+  "homepage": "https://github.com/mdalberto/spriter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdalberto/spriter.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Matt Dalberto",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-svg2png": "^2.0.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svg-sprites": "^4.0.2",
     "gulp-svg2png": "^2.0.0"
   }
 }

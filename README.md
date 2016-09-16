@@ -5,6 +5,10 @@ Sprite things
 gulp-svg-sprites
 
 http://lukewhitehouse.co.uk/blog/svg-icon-workflow/
+## Setup:
+## Requires Node js & npm
+typing 'node -v' in the cli should return the version numb
+typing 'npm -v'  in the cli should return the version numb
 
 ## How to:
 
